@@ -1,0 +1,38 @@
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csprojAssemblyReference.cache
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\App.g.cs
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF_MarkupCompile.cache
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwoWPF.exe.config
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwoWPF.exe
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwoWPF.pdb
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwo.exe
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwo.pdb
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwo.exe.config
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF_MarkupCompile.lref
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\MainWindow.baml
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.g.resources
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.Properties.Resources.resources
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csproj.GenerateResource.cache
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csproj.CoreCompileInputs.cache
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csproj.CopyComplete
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.exe
+C:\Users\Eise\Documents\Code\Lessons\6 GameOfLife\GameOfLife2\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.pdb
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwoWPF.exe.config
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwoWPF.exe
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwoWPF.pdb
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwo.exe
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwo.pdb
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\bin\Debug\GameOfLifeTwo.exe.config
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csprojAssemblyReference.cache
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\App.g.cs
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF_MarkupCompile.cache
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF_MarkupCompile.lref
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\MainWindow.baml
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.g.resources
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.Properties.Resources.resources
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csproj.GenerateResource.cache
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csproj.CoreCompileInputs.cache
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.csproj.CopyComplete
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.exe
+C:\Users\pimsc\OneDrive\Bureaublad\GameOfLife216-05\GameOfLifeTwo\GameOfLifeTwoWPF\obj\Debug\GameOfLifeTwoWPF.pdb
